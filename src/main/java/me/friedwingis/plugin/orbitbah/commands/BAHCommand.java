@@ -15,8 +15,8 @@ import revxrsal.commands.annotation.Subcommand;
  * All code is private and not to be used by any
  * other entity unless explicitly stated otherwise.
  **/
-@RequiredArgsConstructor
 @Command({"bah", "blackmarketauctionhouse"})
+@RequiredArgsConstructor
 public class BAHCommand {
     private final OrbitBAH plugin;
 
