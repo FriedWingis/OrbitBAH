@@ -1,6 +1,11 @@
+
 <h1 align="center">
-	OrbitBAH
+	<img alt="Logo" src="https://avatars.githubusercontent.com/u/136371729?s=96&v=4" width="150px" /> 
 </h1>
+
+<h3 align="center">
+	OrbitBAH
+</h3>
 
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -16,6 +21,7 @@
 ## 🚀 Technologies
 
 - [Java](https://www.java.com/en/)
+- [SpigotMC API](https://www.spigotmc.org/)
 - [Maven](https://maven.apache.org/)
 
 ## 💻 Getting started
