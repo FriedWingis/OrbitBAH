@@ -16,7 +16,10 @@
 
 ## 👨🏻‍💻 About the project
 
-- <p style="color: red;">A recreation of the Black Market Auction House in MC 1.21.1 from the beloved 1.7.10 CosmicPvP factions server. This plugin was originally developed for the CosmicGalaxy Minecraft server. To comply with CosmicGalaxy LLC's copyright, the project has been renamed and slightly modified.</p>
+- <p style="color: red;">A recreation of the Black Market Auction House in MC 1.21.1 from the beloved 1.7.10 CosmicPvP factions server. This plugin was originally developed for the CosmicGalaxy Minecraft server. To comply with *CosmicGalaxy LLC's copyright, the project has been renamed and slightly modified.
+
+*I am the sole owner and operator of CosmicGalaxy LLC.
+</p>
 
 ## 🚀 Technologies
 
